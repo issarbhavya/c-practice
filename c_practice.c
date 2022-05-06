@@ -10,10 +10,11 @@ int main()
         i++;
     }
     if(c==1){
-        printf("it is a prime no.");
+        printf("yes");
     }
     else{
-        printf("not a prime no.");
+        printf("no.");
     }
     return 0;
+    
 }
